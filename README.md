@@ -1,0 +1,4 @@
+BnuVerifica
+===========
+
+BnuVerifica é um aplicativo mobile onde as pessoas poderão reclamar sobre as necessidades da cidade de Blumenau. Apontando então o local onde ocorre os problemas, que poderão ser desde buracos nas ruas, vazamentos de água, problemas com a iluminação pública até problemas em escolas e creches municipais entre outros.  Os usuários do aplicativo colocarão graus para cada problema citado, e logo após, o aplicativo irá enviar e-mails para os setores responsáveis com a quantidade de solicitações e o grau do problema. No entanto, se após o primeiro envio as reclamações continuarem, será enviado outros e-mails com os dados das reclamações atualizados que irá se repetir até o problema ser solucionado. O BnuVerifica será feito de forma colaborativa e Open Source, tendo o intuito de incentivar outras cidades a utilizarem o mesmo modelo ou até mesmo melhorar a ideia.
